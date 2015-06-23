@@ -1,0 +1,15 @@
+generals zero 
+generals hour 
+generals cd 
+zero hour 
+zero cd 
+hour cd 
+generals zero hour 
+generals zero cd 
+generals hour cd 
+zero hour cd 
+hour no cd 
+generals zero hour cd 
+generals hour no cd 
+zero hour no cd 
+generals zero hour no cd 

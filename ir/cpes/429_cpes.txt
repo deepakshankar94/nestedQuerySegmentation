@@ -1,0 +1,26 @@
+poison dart 
+poison frog 
+poison life 
+poison cycle 
+dart frog 
+dart life 
+dart cycle 
+frog life 
+frog cycle 
+life cycle 
+poison dart frog 
+poison dart life 
+poison dart cycle 
+poison frog life 
+poison frog cycle 
+poison life cycle 
+dart frog life 
+dart frog cycle 
+dart life cycle 
+frog life cycle 
+poison dart frog life 
+poison dart frog cycle 
+poison dart life cycle 
+poison frog life cycle 
+dart frog life cycle 
+poison dart frog life cycle 

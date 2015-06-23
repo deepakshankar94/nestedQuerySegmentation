@@ -1,0 +1,6 @@
+stop game 
+game show 
+go go stop 
+stop game show 
+go go stop game 
+go go stop game show 

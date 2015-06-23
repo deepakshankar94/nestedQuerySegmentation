@@ -1,0 +1,15 @@
+run paradise 
+run chords 
+run guitar 
+paradise chords 
+paradise guitar 
+chords guitar 
+run to paradise 
+run paradise chords 
+run paradise guitar 
+run chords guitar 
+paradise chords guitar 
+run to paradise chords 
+run to paradise guitar 
+run paradise chords guitar 
+run to paradise chords guitar 

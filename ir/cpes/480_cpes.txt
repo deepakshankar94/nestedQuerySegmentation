@@ -1,0 +1,26 @@
+gym class 
+gym heroes 
+gym cookie 
+gym jar 
+class heroes 
+class cookie 
+class jar 
+heroes cookie 
+heroes jar 
+cookie jar 
+gym class heroes 
+gym class cookie 
+gym class jar 
+gym heroes cookie 
+gym heroes jar 
+gym cookie jar 
+class heroes cookie 
+class heroes jar 
+class cookie jar 
+heroes cookie jar 
+gym class heroes cookie 
+gym class heroes jar 
+gym class cookie jar 
+gym heroes cookie jar 
+class heroes cookie jar 
+gym class heroes cookie jar 

@@ -1,0 +1,26 @@
+brisbane courier 
+brisbane mail 
+brisbane footy 
+brisbane tips 
+courier mail 
+courier footy 
+courier tips 
+mail footy 
+mail tips 
+footy tips 
+brisbane courier mail 
+brisbane courier footy 
+brisbane courier tips 
+brisbane mail footy 
+brisbane mail tips 
+brisbane footy tips 
+courier mail footy 
+courier mail tips 
+courier footy tips 
+mail footy tips 
+brisbane courier mail footy 
+brisbane courier mail tips 
+brisbane courier footy tips 
+brisbane mail footy tips 
+courier mail footy tips 
+brisbane courier mail footy tips 

@@ -1,0 +1,26 @@
+operation system 
+operation core 
+operation 2 
+operation quad 
+system core 
+system 2 
+system quad 
+core 2 
+core quad 
+2 quad 
+operation system core 
+operation system 2 
+operation system quad 
+operation core 2 
+operation core quad 
+operation 2 quad 
+system core 2 
+system core quad 
+system 2 quad 
+core 2 quad 
+operation system core 2 
+operation system core quad 
+operation system 2 quad 
+operation core 2 quad 
+system core 2 quad 
+operation system core 2 quad 

@@ -1,0 +1,26 @@
+pivot stickfigure 
+pivot animator 
+pivot add 
+pivot ons 
+stickfigure animator 
+stickfigure add 
+stickfigure ons 
+animator add 
+animator ons 
+add ons 
+pivot stickfigure animator 
+pivot stickfigure add 
+pivot stickfigure ons 
+pivot animator add 
+pivot animator ons 
+pivot add ons 
+stickfigure animator add 
+stickfigure animator ons 
+stickfigure add ons 
+animator add ons 
+pivot stickfigure animator add 
+pivot stickfigure animator ons 
+pivot stickfigure add ons 
+pivot animator add ons 
+stickfigure animator add ons 
+pivot stickfigure animator add ons 
